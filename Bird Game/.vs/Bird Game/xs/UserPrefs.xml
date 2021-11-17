@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7C09A263-62BD-C7A7-DD44-B4FE4A42CB2B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../game-course-fall-2021/prototype-1--2d-puzzle-game/Source/2dpuzzlegame/Assets/Scripts/PlayerMove.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="23" Column="58" />
+      <File FileName="../../game-course-fall-2021/prototype-1--2d-puzzle-game/Source/2dpuzzlegame/Assets/Scripts/PlayerMove.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bird Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="46720da2-f98a-4554-baf7-a6612ac5d6c7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
