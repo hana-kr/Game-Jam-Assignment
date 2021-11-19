@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{7C09A263-62BD-C7A7-DD44-B4FE4A42CB2B}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
     <Files>
-      <File FileName="Assets/Scripts/UiManager.cs" Line="36" Column="6" />
-      <File FileName="Assets/Scripts/Player.cs" Line="80" Column="10" />
-      <File FileName="Assets/Scripts/EventSystemCustom.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="40" Column="43" />
+      <File FileName="Assets/Scripts/UiManager.cs" />
+      <File FileName="Assets/Scripts/EventSystemCustom.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bird Game" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Player.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -21,7 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef2484a3-619d-4ccd-b829-05f96b6d493c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a3d25453-c1c2-4405-b83c-745a7894df1d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

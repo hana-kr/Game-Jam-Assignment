@@ -37,10 +37,11 @@ public class Player : MonoBehaviour
         {
             eventSystem.GameOver.Invoke();
         }
-        if(Chest != null && CoinCount>= 20)
+        if(Chest != null && CoinCount>= 240)
         { 
             eventSystem.Win.Invoke();
             Debug.Log("you wonn");
+            Destroy(this.gameObject);
         }
         
     }
