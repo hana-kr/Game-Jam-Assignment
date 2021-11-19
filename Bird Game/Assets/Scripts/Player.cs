@@ -80,6 +80,14 @@ public class Player : MonoBehaviour
             Chest = collision.gameObject;
         }
     }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Chest"))
+        {
+            Chest = null;
+        }
+
+    }
         private void OnCollisionEnter2D(Collision2D collision)
     {
         anim.SetBool("Hit", true);
